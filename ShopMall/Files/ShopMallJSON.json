@@ -1,0 +1,44 @@
+{
+  "Store": {
+    "Name": "Zara",
+    "Category": "Одежда",
+    "Floor": 2,
+    "Area": 150,
+    "Owner": {
+      "Name": "Иван Иванов",
+      "Age": 45
+    },
+    "Contacts": {
+      "Phone": "+79991234567",
+      "Email": "zara@mail.ru"
+    }
+  },
+  "Restaurant": {
+    "Name": "FoodPlace",
+    "Cuisine": "Итальянская",
+    "Floor": 3,
+    "Seats": 80,
+    "Chef": {
+      "Name": "Петр Петров",
+      "Experience": 10
+    },
+    "Contacts": {
+      "Phone": "+79997654321",
+      "Email": "food@mail.ru"
+    }
+  },
+  "Cinema": {
+    "Name": "CinemaStar",
+    "Halls": 5,
+    "Format": "IMAX",
+    "Floor": 4,
+    "Director": {
+      "Name": "Анна Смирнова",
+      "Age": 38
+    },
+    "Schedule": {
+      "Movie": "Фильм 1",
+      "Time": "18:00"
+    }
+  }
+}

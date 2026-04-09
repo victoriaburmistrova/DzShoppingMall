@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mall>
+	<Store>
+		<Name>Zara</Name>
+		<Category>Одежда</Category>
+		<Floor>2</Floor>
+		<Area>150</Area>
+		<Owner>
+			<Name>Иван Иванов</Name>
+			<Age>45</Age>
+		</Owner>
+		<Contacts>
+			<Phone>+79991234567</Phone>
+			<Email>zara@mail.ru</Email>
+		</Contacts>
+	</Store>
+	<Restaurant>
+		<Name>FoodPlace</Name>
+		<Cuisine>Итальянская</Cuisine>
+		<Floor>3</Floor>
+		<Seats>80</Seats>
+		<Chef>
+			<Name>Петр Петров</Name>
+			<Experience>10</Experience>
+		</Chef>
+		<Contacts>
+			<Phone>+79997654321</Phone>
+			<Email>food@mail.ru</Email>
+		</Contacts>
+	</Restaurant>
+	<Cinema>
+		<Name>CinemaStar</Name>
+		<Halls>5</Halls>
+		<Format>IMAX</Format>
+		<Floor>4</Floor>
+		<Director>
+			<Name>Анна Смирнова</Name>
+			<Age>38</Age>
+		</Director>
+		<Schedule>
+			<Movie>Фильм 1</Movie>
+			<Time>18:00</Time>
+		</Schedule>
+	</Cinema>
+</Mall>
